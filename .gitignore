@@ -1,0 +1,7 @@
+# Ignore vendor directories created by Composer
+/vendor/
+
+# Ignore Docker specific files and directories
+.dockerignore
+.docker/
+
